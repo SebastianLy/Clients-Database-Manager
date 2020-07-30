@@ -1,9 +1,5 @@
 # Zadanie-Rekrutacyjne-.NET-SQL-Developer
 
-## Zadanie rekrutacyjne
-Firma X potrzebuje prostego programu będącego bazą danych klientów tej firmy. Klienci posiadają takie atrybuty jak: **Imię**, **Nazwisko**, **Adres**, **Telefon**, **Email**, 
-**Status**. Status oznacza czy dany klient jest obecnym klientem firmy X czy potencjalnym (pole status przyjmuje tylko 2 wartości – **Potencjalny** i **Obecny**).
-
 ## Technologie
 * **C#**,
 * **.NET WinForms**,
