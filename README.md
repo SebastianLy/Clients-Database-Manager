@@ -1,7 +1,7 @@
-# Zadanie-Rekrutacyjne-.NET-SQL-Developer
+# Zadanie Rekrutacyjne .NET/SQL Developer
 
 ## Technologie
-* **C#**,
+* **C# 8.0**,
 * **.NET WinForms**,
 * **Entity Framework**.
 
