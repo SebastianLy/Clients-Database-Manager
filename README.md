@@ -1,9 +1,4 @@
-# Zadanie Rekrutacyjne .NET/SQL Developer
-
-## Technologie
-* **C# 8.0**,
-* **.NET WinForms**,
-* **Entity Framework**.
+# Clients Database Manger
 
 ## Informacje
 Solucja została podzielona na dwa projekty: **Model** odpowiadający za logikę i dostęp do danych oraz **Prezentacja** odpowiadający za warstwę prezentacji.
@@ -15,3 +10,8 @@ Aplikacja wyświetla rekordy bazy danych oraz umożliwia wyszukiwanie wśród ni
 we wszystkich kolumanch poza kolumną ID. Podwójne kliknięcie na komórkę z danymi klienta powoduje otwarcie okna z edycją jego danych oraz możliwością usunięcia danego klienta.
 W aplikacji jest też przycisk **Odśwież**, który odświeża wyświetlenie danych, w razie gdyby klient został podany bez udziału aplikacji. 
 W głównym oknie znajduje się też przycisk **Dodaj nowego klienta**.
+
+## Technologie:
+* **C# 8.0**,
+* **.NET WinForms**,
+* **Entity Framework**.
